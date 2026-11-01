@@ -1,3 +1,4 @@
-Part,,Use ,,Cost USD,,Vendor ,,Link,,,,,,,Total
-Tft screen,,screen,,$15.69,,Amazon,,https://www.amazon.it/-/en/cart,,,,,,,$26.9
-Esp32,,microcontroller,,$11.21,,Amazon,,https://www.amazon.it/-/en/gp/product/B0D86JDPD6/ref=ox_sc_act_title_1?smid=A2VJTI4O0A38XD&psc=1,,,,,,,
+Item,Qty,Use,Supplier,Cost/item,Total Cost,link
+Tft screen,1,screen,Amazon,$15.69,$26.9,https://www.amazon.it/-/en/cart
+Esp32,1,microcontroller,Amazon,$11.21,,https://www.amazon.it/-/en/gp/product/B0D86JDPD6/ref=ox_sc_act_title_1?smid=A2VJTI4O0A38XD&psc=1
+Estimated total shipping,1,,$0.00,$0.00,
