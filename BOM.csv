@@ -1,5 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 Tft screen,1,Amazon,$15.69,$15.69,https://www.amazon.it/-/en/cart
 Esp32,1,Amazon,$11.21,$11.21,https://www.amazon.it/-/en/gp/product/B0D86JDPD6/ref=ox_sc_act_title_1?smid=A2VJTI4O0A38XD&psc=1
-Estimated total shipping,1,$0.00,$0.00,$0.00,
 Estimated total shipping,1,,,$0.00,
